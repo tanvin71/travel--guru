@@ -1,0 +1,22 @@
+.style {
+    margin-top: 50px;
+    border: 1px solid gray;
+}
+.auth {
+    width: 80%;
+    margin:auto;
+
+}
+.button {
+    border-radius: 50px;
+}
+input {
+    border: none;
+    border-bottom: 1px solid gray;
+}
+.icon-img {
+    width: 20px;
+}
+.icon {
+    margin-left: 200px;
+}

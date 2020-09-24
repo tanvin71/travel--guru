@@ -1,0 +1,7 @@
+.destination {
+    display:flex;
+    justify-content:space-between;
+}
+.hotel-side {
+    width: 50%;
+}

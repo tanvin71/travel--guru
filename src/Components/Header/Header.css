@@ -1,0 +1,28 @@
+.header{
+    display:flex;
+    justify-content:space-around;
+    color: white;
+}
+
+.header-logo img {
+    height: 40px;
+}
+ul {
+    display:flex;
+    justify-content:space-around;
+}
+li {
+    list-style: none;
+    margin: 0 5px;
+}
+li a {
+    text-decoration: none;
+    color: blueviolet;
+}
+li a:hover{
+    text-decoration: none;
+    
+}
+li a::placeholder{
+    border-radius: 5px; 
+}
