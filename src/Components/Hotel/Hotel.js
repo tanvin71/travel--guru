@@ -5,11 +5,6 @@ import { UserContext } from '../../App';
 
 const Hotel = (props) => { 
     const {img,headline,feature,description,rating,price} = props.lodge;
-    // const {selectedPlace,setSelectedPlace} =useContext(UserContext)
-    // console.log(selectedPlace.name)
-    // const hotel = fakeData2.filter(hl => hl.Place == selectedPlace.name)
-    // console.log(hotel)
-    // // const{img, headline}   =  hotel
     return (
         <div className="hotel">
             <div className="img">

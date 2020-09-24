@@ -14,9 +14,7 @@ const Details = () => {
         history.push("/login")
     }
 
-    // const [book,setBook] =useState
     const handleBlur = (e) => {
-        console.log(e.target.name,e.target.value)
     }
     const  handleSubmit = () => {
            handleAuth();
